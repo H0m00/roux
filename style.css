@@ -1,0 +1,73 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height:1.5;
+    padding:0;
+    margin:0;
+    background-color:#yellow;
+}
+
+
+.container{
+    width:80%;
+    margin:auto;
+    overflow:hidden;
+}
+
+header ul{
+    margin:0;
+    padding:0;
+	color:#38B827;
+}
+
+/* header */
+header{
+    background:black;
+    color:#0066CC;
+	
+    padding-top:30px;
+    main-height:70px;
+    border-bottom:#38B827; 10px solid;
+}
+
+header a{
+    color:#ffffff;
+    text-decoration:none;
+    text-transform:uppercase;
+    font-size:16px;
+}
+
+header li{
+    float:left;
+    display:inline;
+    padding:0 20px 0 20px;
+}
+
+header #branding h1{
+    margin:0;
+	color:#38B827;
+	font-size: 20px;
+}
+
+header nav{
+    float:right;
+    margin:10px;
+	color:#38B827;
+}
+
+header a:hover{
+    color:#yellow;
+	 padding-top:30px;
+    main-height:70px;
+    border-bottom:#38B827 10px solid;
+	
+	
+}
+
+selektor 
+{ 
+background-size:100px
+
+
+
+}
